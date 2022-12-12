@@ -37,7 +37,7 @@ pipeline {
             steps {
                 script {
                     def reportPath = "${WORKSPACE}/target/report"
-                     ...
+                     
                 }
             }
         }
